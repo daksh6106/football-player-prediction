@@ -1,11 +1,14 @@
 # ⚽ Football Player Performance Prediction
+## 🚀 Live Demo
+
+[Open Football Player Prediction App](https://football-player-prediction-chupmzlv4zghz8thfteaqp.streamlit.app/)
 
 A simple Machine Learning project that predicts the expected goals of a football player using player statistics.
 
 ## 📌 Project Description
 
 This project uses Machine Learning to predict the number of goals a football player may score based on different player statistics.
-
+s
 The model uses:
 
 - Age
